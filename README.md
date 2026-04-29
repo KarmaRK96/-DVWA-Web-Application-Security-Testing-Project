@@ -87,13 +87,13 @@ Successfully manipulated backend query logic and retrieved multiple records.
 
 ## 3️⃣ Reflected Cross-Site Scripting (XSS) 
 
-**📌 Description**
+*📌 Description*
 
 Injected JavaScript into reflected user input fields.
 
-**💉 Payload Example**
+*💉 Payload Example*
 
-**HTML**
+*HTML*
 
 <script>alert('XSS')</script>
 
@@ -103,3 +103,103 @@ JavaScript executed successfully in browser popup.
 
 [XSS Popup] <img width="1566" height="955" alt="Screenshot 2026-04-28 at 10 31 28 PM" src="https://github.com/user-attachments/assets/2e817603-07d7-4496-a03f-f6383e447a9c" />
 
+
+## 4️⃣ Command Injection
+
+*📌 Description*
+
+Tested insecure server-side command execution through user input.
+
+*💉 Payload Example*
+
+127.0.0.1 && whoami
+
+### ✅ Result
+
+Additional system command executed successfully.
+
+[Command Injection] <img width="1296" height="673" alt="Screenshot 2026-04-28 at 10 55 58 PM" src="https://github.com/user-attachments/assets/0b36f33c-e052-49b0-866b-f3dc7dea95b6" />
+
+## 5️⃣ HTTP Request Interception
+
+🛠️ Tool Used
+
+Burp Suite
+
+*📌 Description*
+
+Captured and analyzed HTTP requests between browser and DVWA.
+
+### ✅ Result
+
+[Burp Intercept] <img width="1372" height="615" alt="Screenshot 2026-04-28 at 10 44 28 PM" src="https://github.com/user-attachments/assets/70663adf-81cf-400c-9518-e607993c97bc" />
+
+## 🔐 Security Recommendations
+
+*SQL Injection Prevention*
+
+Use parameterized queries
+
+Validate input
+
+Use least privilege DB accounts
+
+*XSS Prevention*
+
+Output encoding
+
+Input sanitization
+
+Implement Content Security Policy (CSP)
+
+*Command Injection Prevention*
+
+Avoid shell execution
+
+Sanitize inputs
+
+Use allowlists
+
+Run apps with least privileges
+
+## 📚 Skills Gained
+
+Web Application Security Testing
+
+Vulnerability Assessment
+
+Manual Penetration Testing
+
+Burp Suite Usage
+
+HTTP Traffic Analysis
+
+Security Reporting
+
+OWASP Awareness
+
+## 💼 Resume Value
+
+Performed hands-on web application security testing using DVWA and Burp Suite. Identified SQL Injection, XSS, and Command Injection vulnerabilities with remediation recommendations.
+
+## 🚀 Future Enhancements
+
+Add OWASP Juice Shop testing
+
+Use OWASP ZAP scanner
+
+Session management testing
+
+Authentication bypass testing
+
+Automated reporting
+
+## ⚠️ Disclaimer
+
+This project was conducted in a legal, local lab environment using DVWA for educational and ethical learning purposes only.
+##
+ 📬 Contact
+
+•⁠  ⁠GitHub: Roshan Karmakar 
+
+•⁠  ⁠LinkedIn: https://www.linkedin.com/in/roshan-karmakar-67b61816b/
