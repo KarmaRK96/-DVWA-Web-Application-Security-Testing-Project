@@ -13,26 +13,18 @@ This project is ideal for beginner cybersecurity learners and showcases practica
 ## 🎯 Objectives
 
 •⁠  ⁠Understand common web application vulnerabilities
-
 •⁠  ⁠Practice manual security testing techniques.
-
 •⁠  ⁠Learn HTTP request/response interception.
-
 •⁠  ⁠Gain experience with penetration testing tools.
-
 •⁠  ⁠Document findings professionally.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
-
 •⁠  ⁠Kali Linux
-
 •⁠  ⁠Firefox Browser
-
 •⁠  ⁠MariaDB
-
 •⁠  ⁠Apache / DVWA Service
 
 ---
