@@ -46,6 +46,7 @@ The DVWA security level was configured to *Low* to enable beginner-friendly test
 
 ### 🎯 Purpose
 
+
 This setting was used to practice:
 
 •⁠  ⁠SQL Injection  
