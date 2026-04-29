@@ -70,11 +70,11 @@ Successfully configured DVWA to Low security mode and performed hands-on vulnera
 
 ### 2️⃣ SQL Injection
 
-*Description:*
+**Description:**
 
 Tested improper input sanitization in database queries.
 
-*💉 Payload Example*
+**💉 Payload Example**
 
 sql
 1' OR '1'='1
