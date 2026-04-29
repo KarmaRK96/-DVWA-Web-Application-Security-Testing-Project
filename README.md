@@ -87,13 +87,13 @@ Successfully manipulated backend query logic and retrieved multiple records.
 
 ## 3️⃣ Reflected Cross-Site Scripting (XSS) 
 
-*📌 Description*
+**📌 Description**
 
 Injected JavaScript into reflected user input fields.
 
-*💉 Payload Example*
+**💉 Payload Example**
 
-*HTML*
+**HTML**
 
 <script>alert('XSS')</script>
 
