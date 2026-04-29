@@ -134,6 +134,8 @@ Captured and analyzed HTTP requests between browser and DVWA.
 
 [Burp Intercept] <img width="1372" height="615" alt="Screenshot 2026-04-28 at 10 44 28 PM" src="https://github.com/user-attachments/assets/70663adf-81cf-400c-9518-e607993c97bc" />
 
+<img width="1341" height="720" alt="Screenshot 2026-04-28 at 10 43 59 PM" src="https://github.com/user-attachments/assets/c7be7830-f778-45a1-97b5-d444bee1bc91" />
+
 ## 🔐 Security Recommendations
 
 *SQL Injection Prevention*
@@ -197,9 +199,10 @@ Automated reporting
 ## ⚠️ Disclaimer
 
 This project was conducted in a legal, local lab environment using DVWA for educational and ethical learning purposes only.
-##
- 📬 Contact
+
+## 📬 Contact
 
 •⁠  ⁠GitHub: Roshan Karmakar 
 
-•⁠  ⁠LinkedIn:  https://www.linkedin.com/in/roshan-karmakar-67b61816b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BldZDuD%2FWTaCjVsMwOLLojg%3D%3D
+•⁠  ⁠LinkedIn: www.linkedin.com/in/roshan-karmakar-67b61816b
+
