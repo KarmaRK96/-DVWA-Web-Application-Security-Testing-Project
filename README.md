@@ -202,4 +202,4 @@ This project was conducted in a legal, local lab environment using DVWA for educ
 
 •⁠  ⁠GitHub: Roshan Karmakar 
 
-•⁠  ⁠LinkedIn: https://www.linkedin.com/in/roshan-karmakar-67b61816b/
+•⁠  ⁠LinkedIn:  https://www.linkedin.com/in/roshan-karmakar-67b61816b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BldZDuD%2FWTaCjVsMwOLLojg%3D%3D
